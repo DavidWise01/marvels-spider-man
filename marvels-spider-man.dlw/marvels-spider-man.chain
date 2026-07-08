@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 34
+slug  : marvels-spider-man
+seal  : efef5135729a59a8e6461a6d13e92cbd99e8f19b6ce1493877c5e8d022e079f3
+prev  : a9dd777e2ed6908d2c789de8e183120e5a0e39ed476bee1882ba62136edec730
+link  : 2e96f800c2d0d06b778b529608dd8cc0ebfc639027bface9eb3931eb977ec4b1
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
